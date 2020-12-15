@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Test GSS" source="x_rdsp_test_gss">fbd77225dba820502d617a2faa96198a</dependency>
+        <min_version>1.0.3</min_version>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2020-12-15 06:13:20</sys_created_on>
+        <sys_id>ef1a421adb49e810d6bcfd131d9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="sn-publish-tag-install" source="x_rdsp_sn_publish">8539c2d6db49e810d6bcfd131d9619b5</sys_package>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2020-12-15 06:13:20</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

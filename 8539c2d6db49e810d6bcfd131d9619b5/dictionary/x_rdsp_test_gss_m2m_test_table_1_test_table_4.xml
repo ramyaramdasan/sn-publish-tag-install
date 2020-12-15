@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Gss M2m Test Table 1 Test Table 4" max_length="40" name="x_rdsp_test_gss_m2m_test_table_1_test_table_4" sizeclass="0" type="collection">
+        <element label="test from sn" max_length="128" name="x_rdsp_sn_publish_test_from_sn" type="string"/>
+    </element>
+</database>
