@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>sys_created_on</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Test CS</name>
+        <order/>
+        <script><![CDATA[//test script]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2020-12-15 06:18:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>763b8e1adb49e810d6bcfd131d9619ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test CS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sn-publish-tag-install" source="x_rdsp_sn_publish">8539c2d6db49e810d6bcfd131d9619b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn-publish-tag-install">8539c2d6db49e810d6bcfd131d9619b5</sys_scope>
+        <sys_update_name>sys_script_client_763b8e1adb49e810d6bcfd131d9619ab</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2020-12-15 11:13:46</sys_updated_on>
+        <table>x_rdsp_test_gss_m2m_test_table_3_test_table_4</table>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="sn-publish-tag-install">8539c2d6db49e810d6bcfd131d9619b5</application>
+        <file_path/>
+        <instance_id>de07355cdb3c581c431011f84896197d</instance_id>
+        <instance_name>sndpp905</instance_name>
+        <name>sys_script_client_763b8e1adb49e810d6bcfd131d9619ab</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;sys_created_on&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Test CS&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[//test script]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;INRRMP&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-15 06:18:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;763b8e1adb49e810d6bcfd131d9619ab&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test CS&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="sn-publish-tag-install" source="x_rdsp_sn_publish"&gt;8539c2d6db49e810d6bcfd131d9619b5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="sn-publish-tag-install"&gt;8539c2d6db49e810d6bcfd131d9619b5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_763b8e1adb49e810d6bcfd131d9619ab&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;INRRMP&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-15 11:13:46&lt;/sys_updated_on&gt;&lt;table&gt;x_rdsp_test_gss_m2m_test_table_3_test_table_4&lt;/table&gt;&lt;type/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1838582098</payload_hash>
+        <record_name>Test CS</record_name>
+        <reverted_from/>
+        <source>dcef83dadb81a81069f6dfea5e961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2020-12-15 11:18:07</sys_created_on>
+        <sys_id>1cef83dadb81a81069f6dfea5e96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176661f2c5e0000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2020-12-15 11:18:07</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>78ee479a4881a810eaa88107f7941d19</update_guid>
+        <update_guid_history>78ee479a4881a810eaa88107f7941d19:1838582098,3f0f0b9aec81a810576d21ff02c609d9:0,270f0b9acd81a810796fe37d5dc9f7c0:-1770688186,78ee479a4881a810eaa88107f7941d19:1838582098,45de479a3c81a810e83f400c7c7ecc3a:2014046348,ef5b8e1ac049e8104998b47e4e6f50fa:1315613153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2020-12-15 11:24:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>029e0a3e47944d0980138580322e2f79</sys_id>
+        <sys_metadata>763b8e1adb49e810d6bcfd131d9619ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test CS</sys_name>
+        <sys_package display_value="sn-publish-tag-install" source="x_rdsp_sn_publish">8539c2d6db49e810d6bcfd131d9619b5</sys_package>
+        <sys_parent display_value="Test Gss M2m Test Table 3 Test Table 4">2ad84fe1dbe46c10a4b366041b961926</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="sn-publish-tag-install">8539c2d6db49e810d6bcfd131d9619b5</sys_scope>
+        <sys_scope_delete display_value="">0d636edc1f2a47a7a3f6a32c2a98aeb9</sys_scope_delete>
+        <sys_update_name>sys_script_client_763b8e1adb49e810d6bcfd131d9619ab</sys_update_name>
+        <sys_update_version display_value="sys_script_client_763b8e1adb49e810d6bcfd131d9619ab">1cef83dadb81a81069f6dfea5e96193c</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2020-12-15 11:24:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
